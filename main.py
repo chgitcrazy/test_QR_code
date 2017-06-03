@@ -1,8 +1,8 @@
 from flask import Flask
-from flask.ext.sqlalchemy import SQLAlchemy
+from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root@localhost:3306/User?charset=utf8'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:root@localhost/User'
 app.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = True
 db = SQLAlchemy(app)
 
@@ -15,15 +15,13 @@ class User(db.Model):
      grade = db.Column(db.Float)
      email = db.Column(db.String(80))
      wechat_name = db.Column(db.String(80))
-     wechar_number = db.Column(db.String(80))
+     wechat_number = db.Column(db.String(80))
      phone = db.Column(db.String(20))
      money = db.Column(db.Float)
      address = db.Column(db.String(100))
      comment = db.Column(db.String(1000))
      level = db.Column(db.Integer)
 
-     def __repr__(self):
-         return '<User {}>'.format(self.username)
 
 @app.route('/')
 def hello_world():
@@ -31,8 +29,8 @@ def hello_world():
 
 @app.route('/participate')
 def participate():
-	return "ttt"
-
+	users = User.query.first()
+	return "dfdf"
 
 if __name__ == '__main__':
     app.run(debug=True)

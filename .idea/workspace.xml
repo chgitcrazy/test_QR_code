@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69212a5c-6b4e-4f2b-a65e-58b19ed3e5df" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/BUILDME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/CHANGES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/CONTENTS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/effbot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ArgImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.BdfFontFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.BmpImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.BufrStubImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ContainerIO.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.CurImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.DcxImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.EpsImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ExifTags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.FitsStubImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.FliImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.FontFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.FpxImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.GbrImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.GdImageFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.GifImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.GimpGradientFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.GimpPaletteFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.GribStubImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.Hdf5StubImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.IcnsImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.IcoImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.Image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageChops.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageColor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageDraw.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageEnhance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageFileIO.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageFilter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageFont.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageGL.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageGrab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageOps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImagePalette.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImagePath.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageSequence.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageStat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageTk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageTransform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImageWin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.ImtImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.IptcImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.JpegImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.McIdasImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.MicImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.MpegImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.MspImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.OleFileIO.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PSDraw.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PaletteFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PalmImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PcdImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PcfFontFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PcxImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PdfImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PixarImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PngImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PpmImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.PsdImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.SgiImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.SpiderImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.SunImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.TarIO.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.TgaImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.TiffImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.TiffTags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.WalImageFile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.WmfImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.XVThumbImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.XbmImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Docs/pythondoc-PIL.XpmImagePlugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Images/courB08.bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Images/courB08.pbm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Images/courB08.pil" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Images/lena.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Images/lena.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Images/lena.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Images/lena.ppm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/MANIFEST" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL.pth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ArgImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/BdfFontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/BmpImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/BufrStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ContainerIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/CurImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/DcxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/EpsImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ExifTags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/FitsStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/FliImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/FontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/FpxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/GbrImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/GdImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/GifImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/GimpGradientFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/GimpPaletteFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/GribStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/Hdf5StubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/IcnsImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/IcoImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/Image.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageChops.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageCms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageColor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageDraw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageDraw2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageEnhance.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageFileIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageFilter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageFont.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageGL.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageGrab.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageMath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageMode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageOps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImagePalette.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImagePath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageQt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageSequence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageShow.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageStat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageTk.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageTransform.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImageWin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/ImtImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/IptcImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/JpegImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/McIdasImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/MicImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/MpegImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/MspImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/OleFileIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PSDraw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PaletteFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PalmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PcdImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PcfFontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PcxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PdfImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PixarImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PngImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PpmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/PsdImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/SgiImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/SpiderImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/SunImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/TarIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/TgaImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/TiffImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/TiffTags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/WalImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/WmfImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/XVThumbImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/XbmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/XpmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/_imaging.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/_imagingmath.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/PIL/_imagingtk.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Sane/CHANGES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Sane/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Sane/_sane.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Sane/demo_numarray.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Sane/demo_pil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Sane/sane.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Sane/sanedoc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Sane/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/enhancer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/explode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/gifmaker.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/painter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/pilconvert.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/pildriver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/pilfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/pilfont.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/pilprint.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/player.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/thresholder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Scripts/viewer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Tk/booster.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Tk/install.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Tk/pilbitmap.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/Tk/tkImaging.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/_imaging.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/_imagingcms.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/_imagingft.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/_imagingmath.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/_imagingtk.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ArgImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/BdfFontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/BmpImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/BufrStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ContainerIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/CurImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/DcxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/EpsImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ExifTags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/FitsStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/FliImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/FontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/FpxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/GbrImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/GdImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/GifImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/GimpGradientFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/GimpPaletteFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/GribStubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/Hdf5StubImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/IcnsImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/IcoImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/Image.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageChops.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageCms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageColor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageDraw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageDraw2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageEnhance.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageFileIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageFilter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageFont.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageGL.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageGrab.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageMath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageMode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageOps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImagePalette.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImagePath.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageQt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageSequence.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageShow.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageStat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageTk.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageTransform.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImageWin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/ImtImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/IptcImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/JpegImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/McIdasImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/MicImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/MpegImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/MspImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/OleFileIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PSDraw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PaletteFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PalmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PcdImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PcfFontFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PcxImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PdfImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PixarImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PngImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PpmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/PsdImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/SgiImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/SpiderImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/SunImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/TarIO.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/TgaImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/TiffImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/TiffTags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/WalImageFile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/WmfImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/XVThumbImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/XbmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/XpmImagePlugin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/_imaging.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/_imagingmath.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/lib.macosx-10.10-intel-2.7/_imagingtk.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/scripts-2.7/pilconvert.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/scripts-2.7/pildriver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/scripts-2.7/pilfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/scripts-2.7/pilfont.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/scripts-2.7/pilprint.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/Tk/tkImaging.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/_imaging.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/_imagingmath.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/_imagingtk.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/decode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/display.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/encode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Access.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Antialias.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Bands.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/BitDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Blend.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Chops.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Convert.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/ConvertYCbCr.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Copy.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Crc32.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Crop.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Dib.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Draw.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Effects.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/EpsEncode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/File.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Fill.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Filter.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/FliDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Geometry.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/GetBBox.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/GifDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/GifEncode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/HexDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Histo.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/JpegDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/JpegEncode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/LzwDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Matrix.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/ModeFilter.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/MspDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Negative.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Offset.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Pack.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/PackDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Palette.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Paste.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/PcdDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/PcxDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/PcxEncode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Point.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Quant.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/QuantHash.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/QuantHeap.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/RankFilter.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/RawDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/RawEncode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Storage.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/SunRleDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/TgaRleDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/Unpack.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/UnpackYCC.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/UnsharpMask.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/XbmDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/XbmEncode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/ZipDecode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/libImaging/ZipEncode.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/map.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/outline.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/build/temp.macosx-10.10-intel-2.7/path.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/decode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/display.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/doctest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/encode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Access.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Antialias.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Bands.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Bit.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/BitDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Blend.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Chops.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Convert.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/ConvertYCbCr.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Copy.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Crc32.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Crop.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Dib.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Draw.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Effects.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/EpsEncode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Except.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/File.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Fill.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Filter.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/FliDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Geometry.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/GetBBox.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Gif.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/GifDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/GifEncode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/HexDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Histo.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/ImDib.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/ImPlatform.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Imaging.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Jpeg.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/JpegDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/JpegEncode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Lzw.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/LzwDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Matrix.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/ModeFilter.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/MspDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Negative.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Offset.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Pack.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/PackDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Palette.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Paste.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/PcdDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/PcxDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/PcxEncode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Point.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Quant.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Quant.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/QuantDefines.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/QuantHash.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/QuantHash.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/QuantHeap.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/QuantHeap.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/QuantTypes.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/RankFilter.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Raw.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/RawDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/RawEncode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Storage.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/SunRleDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/TgaRleDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Unpack.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/UnpackYCC.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/UnsharpMask.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/XbmDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/XbmEncode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/Zip.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/ZipDecode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/libImaging/ZipEncode.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/map.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/outline.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/path.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/selftest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Imaging-1.1.7/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/cdjpeg.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/cjpeg.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/djpeg.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jaricom.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcapimin.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcapistd.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcarith.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jccoefct.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jccolor.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcdctmgr.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jchuff.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcinit.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcmainct.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcmarker.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcmaster.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcomapi.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcparam.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcprepct.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jcsample.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jctrans.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdapimin.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdapistd.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdarith.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdatadst.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdatasrc.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdcoefct.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdcolor.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jddctmgr.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdhuff.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdinput.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdmainct.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdmarker.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdmaster.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdmerge.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdpostct.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdsample.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jdtrans.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jerror.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jfdctflt.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jfdctfst.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jfdctint.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jidctflt.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jidctfst.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jidctint.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jmemmgr.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jmemnobs.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jpegtran.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jquant1.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jquant2.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/jutils.Plo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/rdbmp.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/rdcolmap.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/rdgif.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/rdjpgcom.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/rdppm.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/rdrle.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/rdswitch.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/rdtarga.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/transupp.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/wrbmp.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/wrgif.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/wrjpgcom.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/wrppm.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/wrrle.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.deps/wrtarga.Po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/cjpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/djpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jaricom.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcapimin.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcapistd.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcarith.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jccoefct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jccolor.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcdctmgr.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jchuff.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcinit.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcmainct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcmarker.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcmaster.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcomapi.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcparam.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcprepct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jcsample.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jctrans.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdapimin.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdapistd.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdarith.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdatadst.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdatasrc.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdcoefct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdcolor.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jddctmgr.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdhuff.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdinput.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdmainct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdmarker.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdmaster.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdmerge.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdpostct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdsample.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jdtrans.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jerror.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jfdctflt.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jfdctfst.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jfdctint.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jidctflt.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jidctfst.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jidctint.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jmemmgr.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jmemnobs.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jpegtran" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jquant1.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jquant2.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/jutils.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/libjpeg.7.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/libjpeg.7.dylib.dSYM/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/libjpeg.7.dylib.dSYM/Contents/Resources/DWARF/libjpeg.7.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/libjpeg.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/libjpeg.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/libjpeg.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/.libs/libjpeg.lai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/Makefile.am" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/Makefile.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/aclocal.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/ansi2knr.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/ansi2knr.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/cderror.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/cdjpeg.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/cdjpeg.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/cdjpeg.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/change.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/cjpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/cjpeg.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/cjpeg.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/cjpeg.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/ckconfig.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/coderules.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/config.guess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/config.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/config.status" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/config.sub" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/configure" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/configure.ac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/depcomp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/djpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/djpeg.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/djpeg.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/djpeg.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/example.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/filelist.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/install-sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/install.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jaricom.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jaricom.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jaricom.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcapimin.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcapimin.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcapimin.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcapistd.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcapistd.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcapistd.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcarith.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcarith.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcarith.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jccoefct.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jccoefct.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jccoefct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jccolor.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jccolor.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jccolor.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcdctmgr.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcdctmgr.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcdctmgr.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jchuff.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jchuff.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jchuff.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcinit.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcinit.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcinit.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmainct.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmainct.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmainct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmarker.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmarker.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmarker.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmaster.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmaster.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcmaster.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcomapi.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcomapi.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcomapi.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.bcc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.dj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.mac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.manx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.mc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.sas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.vc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.vms" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jconfig.wat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcparam.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcparam.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcparam.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcprepct.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcprepct.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcprepct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcsample.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcsample.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jcsample.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jctrans.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jctrans.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jctrans.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdapimin.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdapimin.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdapimin.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdapistd.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdapistd.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdapistd.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdarith.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdarith.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdarith.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdatadst.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdatadst.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdatadst.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdatasrc.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdatasrc.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdatasrc.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdcoefct.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdcoefct.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdcoefct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdcolor.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdcolor.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdcolor.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdct.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jddctmgr.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jddctmgr.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jddctmgr.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdhuff.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdhuff.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdhuff.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdinput.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdinput.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdinput.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmainct.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmainct.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmainct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmarker.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmarker.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmarker.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmaster.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmaster.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmaster.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmerge.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmerge.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdmerge.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdpostct.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdpostct.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdpostct.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdsample.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdsample.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdsample.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdtrans.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdtrans.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jdtrans.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jerror.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jerror.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jerror.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jerror.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctflt.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctflt.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctflt.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctfst.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctfst.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctfst.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctint.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctint.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jfdctint.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctflt.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctflt.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctflt.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctfst.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctfst.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctfst.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctint.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctint.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jidctint.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jinclude.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemansi.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemdos.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemdosa.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemmac.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemmgr.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemmgr.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemmgr.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemname.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemnobs.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemnobs.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemnobs.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmemsys.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jmorecfg.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jpegint.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jpeglib.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jpegtran" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jpegtran.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jpegtran.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jpegtran.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jquant1.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jquant1.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jquant1.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jquant2.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jquant2.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jquant2.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jutils.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jutils.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jutils.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/jversion.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/libjpeg.la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/libjpeg.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/libjpeg.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/libtool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/ltmain.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makcjpeg.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makdjpeg.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makeadsw.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makeasln.vc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makecdep.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makecdsp.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makecmak.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makecvcp.vc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makeddep.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makeddsp.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makedmak.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makedvcp.vc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.ansi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.bcc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.dj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.manx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.mc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.mms" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.sas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.unix" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.vc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.vms" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makefile.wat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makejdep.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makejdsp.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makejdsw.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makejmak.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makejsln.vc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makejvcp.vc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makeproj.mac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makerdep.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makerdsp.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makermak.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makervcp.vc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/maketdep.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/maketdsp.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/maketmak.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/maketvcp.vc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makewdep.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makewdsp.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makewmak.vc6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makewvcp.vc9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makljpeg.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/maktjpeg.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/makvms.opt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/missing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdbmp.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdbmp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdcolmap.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdcolmap.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdgif.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdgif.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdjpgcom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdjpgcom.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdjpgcom.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdjpgcom.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdppm.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdppm.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdrle.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdrle.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdswitch.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdswitch.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdtarga.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/rdtarga.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/stamp-h1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/structure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/testimg.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/testimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/testimg.ppm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/testimgp.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/testorig.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/testprog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/transupp.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/transupp.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/transupp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/usage.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wizard.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrbmp.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrbmp.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrgif.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrgif.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrjpgcom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrjpgcom.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrjpgcom.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrjpgcom.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrppm.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrppm.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrrle.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrrle.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrtarga.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jpeg-7/wrtarga.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/ChangeLog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/FAQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/INDEX" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/Makefile.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/adler32.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/adler32.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/adler32.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/amiga/Makefile.pup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/amiga/Makefile.sas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/as400/bndsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/as400/compile.clp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/as400/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/as400/zlib.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/compress.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/compress.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/compress.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/configure" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/configure.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/README.contrib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/buffer_demo.adb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/mtest.adb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/read.adb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/test.adb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/zlib-streams.adb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/zlib-streams.ads" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/zlib-thin.adb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/zlib-thin.ads" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/zlib.adb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/zlib.ads" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/ada/zlib.gpr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/amd64/amd64-match.S" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/asm686/README.686" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/asm686/match.S" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/blast/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/blast/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/blast/blast.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/blast/blast.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/blast/test.pk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/blast/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/delphi/ZLib.pas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/delphi/ZLibConst.pas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/delphi/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/delphi/zlibd32.mak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib.build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib.chm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/ChecksumImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/CircularBuffer.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/CodecBase.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/Deflater.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/DotZLib.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/DotZLib.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/GZipStream.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/Inflater.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/DotZLib/UnitTests.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/LICENSE_1_0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/dotzlib/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/gcc_gvmat64/gvmat64.S" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/infback9/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/infback9/infback9.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/infback9/infback9.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/infback9/inffix9.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/infback9/inflate9.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/infback9/inftree9.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/infback9/inftree9.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/inflate86/inffas86.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/inflate86/inffast.S" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream/test.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream/zfstream.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream/zfstream.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream2/zstream.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream2/zstream_test.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream3/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream3/TODO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream3/test.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream3/zfstream.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/iostream3/zfstream.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx64/bld_ml64.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx64/gvmat64.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx64/inffas8664.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx64/inffasx64.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx64/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx86/bld_ml32.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx86/inffas32.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx86/match686.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/masmx86/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/Makefile.am" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/MiniZip64_Changes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/MiniZip64_info.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/configure.ac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/crypt.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/ioapi.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/ioapi.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/iowin32.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/iowin32.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/make_vms.com" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/miniunz.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/minizip.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/minizip.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/mztools.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/mztools.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/unzip.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/unzip.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/zip.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/minizip/zip.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/pascal/example.pas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/pascal/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/pascal/zlibd32.mak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/pascal/zlibpas.pas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/puff/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/puff/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/puff/puff.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/puff/puff.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/puff/pufftest.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/puff/zeros.raw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/testzlib/testzlib.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/testzlib/testzlib.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/untgz/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/untgz/Makefile.msc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/untgz/untgz.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/miniunz.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/miniunz.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/miniunz.vcxproj.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/minizip.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/minizip.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/minizip.vcxproj.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/testzlib.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/testzlib.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/testzlib.vcxproj.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/testzlibdll.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/testzlibdll.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/testzlibdll.vcxproj.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlib.rc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlibstat.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlibstat.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlibstat.vcxproj.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlibvc.def" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlibvc.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlibvc.vcxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlibvc.vcxproj.filters" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc10/zlibvc.vcxproj.user" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/miniunz.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/minizip.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/testzlib.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/testzlibdll.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/zlib.rc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/zlibstat.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/zlibvc.def" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/zlibvc.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/contrib/vstudio/vc9/zlibvc.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/crc32.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/crc32.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/crc32.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/crc32.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/deflate.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/deflate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/deflate.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/deflate.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/doc/algorithm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/doc/rfc1950.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/doc/rfc1951.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/doc/rfc1952.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/doc/txtvsbin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/example" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/example.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/README.examples" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/enough.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/fitblk.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/gun.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/gzappend.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/gzjoin.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/gzlog.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/gzlog.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/zlib_how.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/zpipe.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examples/zran.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/examplesh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzclose.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzclose.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzclose.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzguts.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzlib.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzlib.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzlib.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzread.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzread.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzread.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzwrite.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzwrite.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/gzwrite.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/infback.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/infback.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/infback.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inffast.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inffast.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inffast.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inffast.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inffixed.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inflate.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inflate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inflate.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inflate.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inftrees.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inftrees.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inftrees.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/inftrees.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/libz.1.2.7.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/libz.1.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/libz.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/libz.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/make_vms.com" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/minigzip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/minigzip.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/minigzipsh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/msdos/Makefile.bor" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/msdos/Makefile.dj2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/msdos/Makefile.emx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/msdos/Makefile.msc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/msdos/Makefile.tc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/nintendods/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/nintendods/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/old/Makefile.emx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/old/Makefile.riscos" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/old/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/old/descrip.mms" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/old/os2/Makefile.os2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/old/os2/zlib.def" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/old/visual-basic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/qnx/package.qpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/test/example.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/test/infcover.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/test/minigzip.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/treebuild.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/trees.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/trees.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/trees.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/trees.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/uncompr.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/uncompr.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/uncompr.o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/watcom/watcom_f.mak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/watcom/watcom_l.mak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/win32/DLL_FAQ.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/win32/Makefile.bor" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/win32/Makefile.gcc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/win32/Makefile.msc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/win32/README-WIN32.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/win32/VisualC.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/win32/zlib.def" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/win32/zlib1.rc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zconf.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zconf.h.cmakein" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zconf.h.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zlib.3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zlib.3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zlib.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zlib.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zlib.pc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zlib.pc.cmakein" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zlib.pc.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zlib2ansi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zutil.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zutil.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zutil.lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zlib-1.2.7/zutil.o" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="$PROJECT_DIR$/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="39" />
+    <option name="y" value="32" />
+    <option name="width" value="1260" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_QR_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_QR_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="test_QR_code" sdk-home="$USER_HOME$/.pyenv/versions/2.7/bin/python">
+        <option name="mySdkHome" value="$USER_HOME$/.pyenv/versions/2.7/bin/python" />
+        <option name="myModuleName" value="test_QR_code" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_QR_code" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_QR_code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_QR_code" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_QR_code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_QR_code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_QR_code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_QR_code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_QR_code" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69212a5c-6b4e-4f2b-a65e-58b19ed3e5df" name="Default" comment="" />
+      <created>1496150726246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496150726246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="39" y="32" width="1260" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298193" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
